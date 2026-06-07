@@ -5,7 +5,7 @@ import ecommerce from "../assets/projects/ecommerce.png"
 import bussiness from "../assets/projects/bussiness.png"
 import music from "../assets/projects/music.png"
 import weather from "../assets/projects/weather.png"
-import todo from "../assets/projects/todo app.png"
+import lamborghini from "../assets/projects/lamborghini.png"
 import login from "../assets/projects/login.png"
 
 import { FaGithub, FaExternalLinkAlt } from "react-icons/fa";
@@ -48,8 +48,8 @@ export const Projects = () => {
       github: "https://github.com/chandru4527/Weather-Application"
     },
     {
-      name: "Todo App",
-      img: todo,
+      name: "Lamborghini-Motorsport",
+      img: lamborghini,
       desc: "Task management app with add, delete, and complete features using local storage.",
       tech: ["HTML", "CSS", "JavaScript"],
       live: "https://chandru4527.github.io/Todo-List-app/",
